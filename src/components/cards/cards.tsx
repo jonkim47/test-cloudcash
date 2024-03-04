@@ -18,9 +18,9 @@ export const Cards = ({ className }: CardsProps) => {
                         logo="Cloudcash"
                         cardNumberStartsWith="5789"
                         cardNumberEndsWith="2847"
-                        cardHolderName="Mike Smith"
+                        cardHolderName="Jonathan Kim"
                         expireDateMonth="06"
-                        expireDateYear="22"
+                        expireDateYear="27"
                     />
                 </div>
 
